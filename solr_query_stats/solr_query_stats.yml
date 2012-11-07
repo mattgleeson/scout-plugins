@@ -1,0 +1,14 @@
+metadata:
+  numdocs:
+    label: Number of Documents
+    units: docs
+    precision: 0
+  q_requests:
+    label: Query Requests
+    units: /sec
+  up_commits:
+    label: Commits
+    units: /sec
+  up_adds:
+    label: Adds
+    units: /sec
